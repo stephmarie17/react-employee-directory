@@ -1,0 +1,20 @@
+body {
+    background-color: #fafafa;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cards {
+    display: inline-flex;
+    padding: 20px;
+}
+
+.cards:hover {
+    cursor: pointer;
+}
+
+input {
+    margin: 0 auto;
+}

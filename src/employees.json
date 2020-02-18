@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Timothy Boyd",
+        "photo": "https://uinames.com/api/photos/male/18.jpg",
+        "position": "Graphic Designer",
+        "email": "timothy.boyd@example.com"
+      },
+    {
+        "id": 2,
+        "name": "Rose Simpson",
+        "photo": "https://uinames.com/api/photos/female/9.jpg",
+        "position": "Web Developer",
+        "email": "rosesimpson@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Patricia Santos",
+        "photo": "https://uinames.com/api/photos/female/19.jpg",
+        "position": "Project Manager",
+        "email": "patricia_84@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Alice Reid",
+        "photo": "https://uinames.com/api/photos/female/14.jpg",
+        "position": "Backend Engineer",
+        "email": "alice_reid@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Gregory Garza",
+        "photo": "https://uinames.com/api/photos/male/10.jpg",
+        "position": "Office Manager",
+        "email": "gregory_88@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Nelson",
+        "photo": "https://uinames.com/api/photos/female/18.jpg",
+        "position": "Frontend Engineer",
+        "email": "sarahnelson@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Virginia Moreno",
+        "photo": "https://uinames.com/api/photos/female/22.jpg",
+        "position": "Content Manager",
+        "email": "virginia_93@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Doris Delgado",
+        "photo": "https://uinames.com/api/photos/female/2.jpg",
+        "position": "Marketing Manager",
+        "email": "doris-95@example.com"
+    }
+]
